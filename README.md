@@ -1,4 +1,4 @@
-# type-check
+# type-check 
 > check the type of js
 
 ## Usage
@@ -31,51 +31,10 @@ typeCheck.getType([1, 2, 3])
 ```
 
 ## API
-* isNumber  
-  Parameters:  
-    * <> input
-    
-  Return: 
-    * <Boolean> result
-
-* isString  
-  Parameters:  
-    * <> input
-
-  Return:  
-    * <Boolean> result
-
-* isBoolean  
-  Parameters:  
-    * <> input
-
-  Return:  
-    * <Boolean> result
-
-* isArray  
-  Parameters:  
-    * <> input
-
-  Return:  
-    * <Boolean> result
-
-* isUndefined  
-  Parameters:  
-    * <> input
-
-  Return:  
-    * <Boolean> result
-
-* isNull  
-  Parameters:  
-    * <> input
-
-  Reutrn:  
-    * <Boolean> result
-
-* getType  
-  Parameters:  
-    * <> input
-
-  Return:  
-    * <String> type
+* isNumber
+* isString
+* isBoolean
+* isArray
+* isUndefined
+* isNull
+* getType
